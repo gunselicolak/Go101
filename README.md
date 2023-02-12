@@ -20,3 +20,5 @@ code -> run code
 okunması daha kolaydır
 
 The Go Playground(play.golang.org)
+
+Değişkenler
